@@ -1,2 +1,3 @@
+--bail
+--reporter spec
 --timeout 20s
---require co-mocha
